@@ -1,6 +1,6 @@
-import Header from "./Components/Header";
-import Sidenavbar from "./Components/Sidenavbar";
-import Bid from "./Components/Bid";
+import Header from "./components/Header";
+import Sidenavbar from "./components/Sidenavbar";
+import Bid from "./components/Bid";
 
 import "./App.css";
 
