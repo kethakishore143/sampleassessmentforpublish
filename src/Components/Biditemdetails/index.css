@@ -1,0 +1,86 @@
+.BidItem-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #add8e6;
+  border-radius: 10px;
+}
+
+.bid-heading {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Roboto";
+  padding: 5px;
+  color: #000000;
+}
+span {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Roboto";
+  padding: 5px;
+  color: #5c6274;
+}
+
+.Loading-point {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Roboto";
+  padding: 5px;
+  color: green;
+}
+
+.unloading-point {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Roboto";
+  padding: 5px;
+  color: red;
+}
+
+.vehicel-loading-data {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.vehicel-loading-data p {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Roboto";
+  padding: 10px;
+}
+
+.center-span {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Roboto";
+  padding: 5px;
+  color: blue;
+}
+
+.bid-contact-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.bid-contact-container p {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Roboto";
+  padding: 10px;
+}
+
+.view-less-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 10px;
+}
+.view-less-container p {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Roboto";
+  padding: 10px;
+}

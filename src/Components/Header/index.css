@@ -1,0 +1,41 @@
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  width: 100%;
+}
+
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-items li {
+  padding: 10px;
+  list-style-type: none;
+  margin: 10px;
+  font-size: 20px;
+  font-family: "Roboto";
+  font-weight: bold;
+  color: #000000;
+}
+
+.logo-cont {
+  display: flex;
+  margin-left: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-cont img {
+  height: 50px;
+  width: 50px;
+}
+
+.select-options {
+  margin-right: 10px;
+}
